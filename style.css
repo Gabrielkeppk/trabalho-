@@ -1,0 +1,30 @@
+body
+ { background-color: rgb(147, 26, 203);    
+text-align: center;
+font-family: Georgia;
+color: rgb(0, 0, 0);
+}
+ 
+img{
+border:10px solid rgb(255, 106, 213) ;
+    width: 450px;
+border-radius: 350px;
+}
+ 
+a{
+    color: rgb(255, 255, 255);
+    
+}
+
+
+h3{
+    text-align: center; 
+    border: 2px solid rgb(255, 106, 213); text-align: center;
+    height: 50px; 
+    width: 1230px; 
+ 
+   
+}
+
+
+
